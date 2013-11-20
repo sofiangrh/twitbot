@@ -2,6 +2,12 @@ Readme Versi 1.0
 
 By Zea (www.zeaja.com)
 
+
+#Screeshot
+
+![TwitBot App](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/1424400_5001940341419_40210314_n.jpg)
+
+
 # Intro
 
 Ini adalah aplikasi Bot yang berfungsi melakukan "auto favorite" pada twit dengan keyword tertentu. Bot ini menggunakan modul Twitter (https://pypi.python.org/pypi/twitter/1.10.0) untuk melakukan fungsi mining dan oAuth.
