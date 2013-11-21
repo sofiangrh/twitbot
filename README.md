@@ -28,13 +28,13 @@ Ini BUKANLAH bot penambah follower otomatis!, karna itu akan mengundang aksi ban
 
 # Cara install
 
-$ git clone https://github.com/alzearafat/twitbot.git
-$ cd twitbot && mv twitbot.py /usr/bin
-$ sudo easy_install twitter
-$ python
+1. $ git clone https://github.com/alzearafat/twitbot.git
+2. $ cd twitbot && mv twitbot.py /usr/bin
+3. $ sudo easy_install twitter
+4. $ python
 
->> import twitbot
->> twitbot.auto_fav('python','6')
+5. >> import twitbot
+6. >> twitbot.auto_fav('python','6')
 
 NOTE : Silahkan ganti keyword 'python' dengan keyword lain, dan jumlah twit '6' dengan jumlah yg anda inginkan.
 
@@ -50,3 +50,5 @@ NOTE : Silahkan ganti keyword 'python' dengan keyword lain, dan jumlah twit '6' 
 #END OFF
 
 # Zea
+
+Contact : fb.com/alzea.arafat
