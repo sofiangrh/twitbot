@@ -33,5 +33,5 @@ def auto_fav(q, count=100):
     for tweet in result['statuses']:
         if fav_tweet(tweet) is not None:
             success += 1
-    print "We Favorited a total of %i out of %i tweets" % (success,
+    print "Kamu memfavoritkan total %i dari %i tweets" % (success,
           len(result['statuses']))
