@@ -10,7 +10,7 @@ By Zea (www.zeaja.com)
 
 # Intro
 
-Ini adalah aplikasi Bot yang berfungsi melakukan "auto favorite" pada twit dengan keyword tertentu. Bot ini menggunakan modul Twitter (https://pypi.python.org/pypi/twitter/1.10.0) untuk melakukan fungsi mining dan oAuth.
+Ini adalah aplikasi Bot/Robot yang berfungsi melakukan "auto favorite" pada twit dengan keyword tertentu. Bot ini menggunakan modul Python Twitter (https://pypi.python.org/pypi/twitter/1.10.0) dan Twitter API untuk melakukan fungsi data mining dan oAuth (auntentikasi).
 
 # Cara Kerja
 
@@ -18,7 +18,7 @@ Mekanisme dasar atau cara kerja bot ini yaitu, anda akan memberikan kata kunci s
 
 # FYI
 
-Ini bukanlan bot penambah follower otomatis!, karna itu akan mengundang aksi banned dari Twitter. Bot ini akan membantu anda menambah follower dengan cara yg lebih "sehat". Yaitu bila anda mem-favorit kan Twit seseorang, mungkin dia akan penasaran siapa yg mem-favoritkan Twit nya. Lalu dia akan mengunjungi profil anda dan akan mengikuti anda jika dia suka dengan twit anda.
+Ini BUKANLAH bot penambah follower otomatis!, karna itu akan mengundang aksi banned dari Twitter. Bot ini akan membantu anda menambah follower dengan cara yg lebih "sehat". Yaitu bila anda mem-favorit kan Twit seseorang, mungkin dia akan penasaran siapa yg mem-favoritkan Twit nya. Lalu dia akan mengunjungi profil anda dan akan mengikuti anda jika dia suka dengan twit anda.
 
 # Persiapan
 
