@@ -1,4 +1,4 @@
-Readme Versi 1.0
+Readme Versi 1.0 ( Still under construction README, plesse be patient for better documentation  :) )
 
 By Zea (www.zeaja.com)
 
@@ -28,15 +28,25 @@ Ini bukanlan bot penambah follower otomatis!, karna itu akan mengundang aksi ban
 
 # Cara install
 
+$ git clone https://github.com/alzearafat/twitbot.git
+$ cd twitbot && mv twitbot.py /usr/bin
 $ sudo easy_install twitter
-$ cd /bin/usr
 $ python
 
 >> import twitbot
 >> twitbot.auto_fav('python','6')
 
-
 NOTE : Silahkan ganti keyword 'python' dengan keyword lain, dan jumlah twit '6' dengan jumlah yg anda inginkan.
 
 
+# Tested On
+
+1. Linux Fedora 19
+2. Python 3
+3. Terminator (Terminal Emulator)
+
+
+
 #END OFF
+
+# Zea
