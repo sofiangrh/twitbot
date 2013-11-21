@@ -4,10 +4,10 @@
 
 from twitter import Twitter, OAuth, TwitterHTTPError
 
-OAUTH_TOKEN = '166649152-ZgBSBesDpIYxbGO5GWpsOHXOihwrjCtiesSOLS34'  # Isikan dengan auth token dari dev.twitter
-OAUTH_SECRET = 'OsYkmpPR9hSrf6aGWtVzDjuzGQulN4eyGFVbRjsfiSADK56'    # Isikan dengan auth secret dari dev.twitter
-CONSUMER_KEY = 'JaZTVaJSkYFSV2oldLKDOE78'                           # Isikan dengan consumer key dari dev.twitter
-CONSUMER_SECRET = '9RyZpUSBXFnvFZsgCvrUyukXbRo4SOLNLKIelkdfoise22'  # Isikan dengan consumer secret dari dev.twitter
+OAUTH_TOKEN = '166649152-ZgBSBesDpIYxbGO5GWpsOHXOihwrjCtiesSOLS34sdr'  # Isikan dengan auth token dari dev.twitter
+OAUTH_SECRET = 'OsYkmpPR9hSrf6aGWtVzDjuzGQulN4eyGFVbRjsfiSADK56sef'    # Isikan dengan auth secret dari dev.twitter
+CONSUMER_KEY = 'JaZTVaJSkYFSV2oldLKDOE78cvb'                           # Isikan dengan consumer key dari dev.twitter
+CONSUMER_SECRET = '9RyZpUSBXFnvFZsgCvrUyukXbRo4SOLNLKIelkdfoise22hgj'  # Isikan dengan consumer secret dari dev.twitter
 
 t = Twitter(auth=OAuth(OAUTH_TOKEN, OAUTH_SECRET,CONSUMER_KEY, CONSUMER_SECRET))
 
