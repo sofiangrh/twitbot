@@ -51,7 +51,8 @@ NOTE : Silahkan ganti keyword 'python' dengan keyword lain, dan jumlah twit '6' 
 
 1. HN-Community (www.hacker-newbie.org)
 2. Linux Fedora Indonesia (www.fedora.or.id)
-3. Rara Syakira  <3 (fb.com/syakirah.die)
+3. Guido van Rossum (http://www.python.org/~guido/)
+4. Rara Syakira  <3 (fb.com/syakirah.die)
 
 #END OFF
 
