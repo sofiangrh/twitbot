@@ -10,7 +10,7 @@ By Zea (www.zeaja.com)
 
 # Intro
 
-Ini adalah aplikasi Bot/Robot yang berfungsi melakukan "auto favorite" pada twit dengan keyword tertentu. Bot ini menggunakan modul Python Twitter (https://pypi.python.org/pypi/twitter/1.10.0) dan Twitter API untuk melakukan fungsi data mining dan oAuth (auntentikasi).
+Ini adalah aplikasi Bot/Robot (Di Program menggunakana bahasa Python) yang berfungsi melakukan "auto favorite" pada twit dengan keyword tertentu. Bot ini menggunakan modul Python Twitter (https://pypi.python.org/pypi/twitter/1.10.0) dan Twitter API untuk melakukan fungsi data mining dan oAuth (auntentikasi).
 
 # Cara Kerja
 
