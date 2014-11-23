@@ -5,7 +5,7 @@ By Zea (www.zeaja.com)
 
 #Screeshot
 
-![](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/1424400_5001940341419_40210314_n.jpg)
+![](http://s29.postimg.org/hubf38v1j/twitbot_python.png)
 
 
 # Intro
@@ -18,11 +18,11 @@ Mekanisme dasar atau cara kerja bot ini yaitu, anda akan memberikan kata kunci s
 
 # FYI
 
-Ini BUKANLAH bot penambah follower otomatis!, karna itu akan mengundang aksi banned dari Twitter. Bot ini akan membantu anda menambah follower dengan cara yg lebih "sehat". Yaitu bila anda mem-favorit kan Twit seseorang, mungkin dia akan penasaran siapa yg mem-favoritkan Twit nya. Lalu dia akan mengunjungi profil anda dan akan mengikuti anda jika dia suka dengan twit anda.
+Ini BUKANLAH bot penambah follower otomatis! Karna itu akan mengundang aksi banned dari Twitter. Bot ini akan membantu anda menambah follower dengan cara yg lebih "sehat". Yaitu bila anda mem-favorit kan Twit seseorang, mungkin dia akan penasaran siapa yg mem-favoritkan Twit nya. Lalu dia akan mengunjungi profil anda dan akan mengikuti anda jika dia suka dengan twit anda.
 
 # Persiapan
 
-1. Buat dulu sebuah aplikasi di https://dev.twitter.com/
+1. Buat dulu sebuah aplikasi di https://apps.twitter.com/
 2. dapatkan consumer key, secret dan token nya.
 3. Masukan/copas consumer key, secret dan token pada skrip twitbot.py
 
@@ -34,8 +34,8 @@ Ini BUKANLAH bot penambah follower otomatis!, karna itu akan mengundang aksi ban
 4. $ sudo easy_install twitter
 5. $ python
 
-6.  import twitbot
-7.  twitbot.auto_fav('python','6')
+6. >>> import twitbot
+7. >>> twitbot.auto_fav('python','6')
 
 NOTE : Silahkan ganti keyword 'python' dengan keyword lain, dan jumlah twit '6' dengan jumlah yg anda inginkan.
 
