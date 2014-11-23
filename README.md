@@ -29,8 +29,8 @@ Ini BUKANLAH bot penambah follower otomatis! Karna itu akan mengundang aksi bann
 # Cara install
 
 1. $ git clone https://github.com/alzearafat/twitbot.git
-2. $ cp twitbot/twitbot.py /usr/bin
-3. $ sudo cd /usr/bin
+2. $ sudo cp twitbot/twitbot.py /usr/bin
+3. $ cd /usr/bin
 4. $ sudo easy_install twitter
 5. $ python
 6. >>> import twitbot
